@@ -1,0 +1,11 @@
+Слон: name, 
+age, 
+trunk_length, 
+weight, 
+tusk_size
+
+Кенгуру: name, 
+age, 
+jump_height, 
+pouch_size, 
+speed
